@@ -1,3 +1,3 @@
 d={}
-d['name']='Gumpy'
+d['name']='Gumpys'
 print(d)
